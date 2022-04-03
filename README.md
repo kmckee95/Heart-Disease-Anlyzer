@@ -5,7 +5,7 @@ colorFrom: red
 colorTo: yellow
 sdk: gradio
 sdk_version: 2.9.1
-app_file: app.py
+app_file: py_script
 pinned: false
 license: afl-3.0
 ---
