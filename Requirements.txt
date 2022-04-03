@@ -3,4 +3,6 @@ pandas
 numpy 
 gradio 
 matplotlib.pyplot 
+torch
+transformers
 seaborn
