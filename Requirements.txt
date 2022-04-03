@@ -1,6 +1,6 @@
-import pickle
-import pandas 
-import numpy 
-import gradio 
-import matplotlib.pyplot 
-import seaborn
+pickle
+pandas 
+numpy 
+gradio 
+matplotlib.pyplot 
+seaborn
