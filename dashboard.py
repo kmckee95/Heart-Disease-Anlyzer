@@ -6,15 +6,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 print('Loading......')
 
-#login feature
-for i in range (40,0 ,0-1):
-    passwordAttempt = input("Enter Password: ")
-    if passwordAttempt == "admin":
-        break
-else:
-    print("Incorrect credentials")
-print('Loading......')
-
 # load the saved model
 rfc_saved = pickle.load(open('rfc.pickle','rb'))
 
